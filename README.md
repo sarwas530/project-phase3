@@ -13,3 +13,13 @@ The telecommunication market is growing rapidly, but with this expansion comes i
 4.How class imbalance can be handled to ensure accurate predictions for churners?
 
 5.Develop targeted campaigns based on the model's predictions.
+
+## Data used 
+The data used is from  SyriaTel Customer Churn.
+
+## Key resource
+pandas, numpy,seaborn,matplotlib.pyplot,warnings,sklearn,sklearn.pipeline,sklearn.model_selection,sklearn.linear_model,sklearn.metrics,sklearn.svm,sklearn.neighbors,sklearn.ensemble,catboost,
+
+## Models
+The models used are: Logistic regression,SVM model,KNN model,Random forest and CatBoost.
+
