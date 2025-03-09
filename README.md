@@ -1,7 +1,8 @@
 # Telecomunication analysis
 
 
-![download](https://github.com/user-attachments/assets/a4a2e99c-3355-4d53-abfd-738564d277e8)
+
+![image](https://github.com/user-attachments/assets/e0efcc2c-b453-45fd-aced-ede476afe783)
 
 
 
