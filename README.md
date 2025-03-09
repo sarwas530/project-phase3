@@ -1,5 +1,12 @@
 # Telecomunication analysis
 
+
+![download](https://github.com/user-attachments/assets/a4a2e99c-3355-4d53-abfd-738564d277e8)
+
+
+
+
+
 ## Bussines understanding
 The telecommunication market is growing rapidly, but with this expansion comes increased competition. Telecom companies are facing significant challenges due to revenue loss as customers leave for better offers and services from competing companies. This phenomenon, known as "churn," is becoming a critical issue for businesses, and they are now focusing on understanding customer behavior to address the root causes of churn.
 
