@@ -24,6 +24,38 @@ pandas, numpy,seaborn,matplotlib.pyplot,warnings,sklearn,sklearn.pipeline,sklear
 The models used are: Logistic regression,SVM model,KNN model,Random forest and CatBoost.
 
 
-![Screenshot 2025-03-08 102028](https://github.com/user-attachments/assets/8694a946-13ec-4026-b6de-ce17f2bebd04)
+## The graph shows the churn distribution by state in terms of percentage.
 
 
+![Screenshot 2025-03-08 102028](https://github.com/user-attachments/assets/099af0e4-546e-4a27-9827-1f4b7db412df)
+
+
+
+
+
+## This plot explores the relationship between international calls and churn.
+
+
+
+
+![image](https://github.com/user-attachments/assets/139e66bc-064a-44b4-a90f-d12c64c54a0b)
+
+
+
+
+
+## Total day minutes feature against day charge feature, colored by churn
+
+
+
+
+![image](https://github.com/user-attachments/assets/234cae25-9bd2-4ebf-aabe-cc210588e444)
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/3af08580-cb1c-4f75-96f0-5b932b5c575f)
