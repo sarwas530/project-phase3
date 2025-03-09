@@ -23,3 +23,7 @@ pandas, numpy,seaborn,matplotlib.pyplot,warnings,sklearn,sklearn.pipeline,sklear
 ## Models
 The models used are: Logistic regression,SVM model,KNN model,Random forest and CatBoost.
 
+
+![Screenshot 2025-03-08 102028](https://github.com/user-attachments/assets/8694a946-13ec-4026-b6de-ce17f2bebd04)
+
+
